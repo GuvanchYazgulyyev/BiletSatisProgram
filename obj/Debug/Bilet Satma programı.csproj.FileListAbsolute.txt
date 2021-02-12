@@ -1,0 +1,34 @@
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\Bilet Satma programı.exe.config
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\Bilet Satma programı.exe
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\Bilet Satma programı.pdb
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet_Satma_programı.Form1.resources
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet_Satma_programı.Form2.resources
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet_Satma_programı.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.exe
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.pdb
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet_Satma_programı.Form3.resources
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.csproj.ResolveComReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\Bilet Satma programı.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\Bilet Satma programı.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\Bilet Satma programı.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\Interop.WMPLib.dll
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\bin\Debug\AxInterop.WMPLib.dll
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Interop.WMPLib.dll
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\AxInterop.WMPLib.dll
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.csproj.ResolveComReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet_Satma_programı.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet_Satma_programı.Form2.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet_Satma_programı.Form3.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet_Satma_programı.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 8\Bilet Satma programı\Bilet Satma programı\obj\Debug\Bilet Satma programı.pdb
